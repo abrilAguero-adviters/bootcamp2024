@@ -1,0 +1,22 @@
+.card-list {
+  width: 200px;
+  height: 100px;
+  background-color: #428bca;
+  color: #fff;
+  border-radius: 10px;
+  padding: 20px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-list:hover {
+  background-color: #4a93d3;
+}
+
+.card-list p,
+h2 {
+  margin: 0;
+  padding: 0;
+}
