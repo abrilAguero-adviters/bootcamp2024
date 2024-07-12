@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Card from "../components/Card/Card";
-import CustomTable from "../components/CustomTable/CustomTable";
+import Card from "../../components/Card/Card";
+import CustomTable from "../../components/CustomTable/CustomTable";
 import "./alumnos.css";
 
 const Alumnos = ({ data }) => {
